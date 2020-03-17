@@ -1,0 +1,6 @@
+Branco - #f9f9f9
+Verde Escuro - #23a455
+Verde Claro - #61ce70
+Cinza Claro - #7a7a7a
+Cinza Escuro - #54595f
+Preto - #3c3c3c
